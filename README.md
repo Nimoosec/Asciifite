@@ -18,7 +18,7 @@ By leveraging **NumPy vectorized operations**, this library ensures that frame-b
 
 Ensure you have Python installed, then navigate to the project root folder and install via pip:
 
-    pip install .
+    pip install asciifite
 
 ### 🛠 Dependencies
 The library relies on the following industry-standard packages:
